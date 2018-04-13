@@ -119,7 +119,7 @@ Get a list of enum types
   # => ["ODataDemo.ProductStatus"]
 ```
 
-For more examples, refer to [usage_example_specs.rb](spec/odata4/usage_example_specs.rb).
+For more examples, refer to [usage_example_spec.rb](spec/odata4/usage_example_spec.rb).
 
 ### Authentication
 
